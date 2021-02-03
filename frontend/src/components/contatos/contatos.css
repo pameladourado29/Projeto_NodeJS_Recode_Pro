@@ -1,0 +1,22 @@
+
+.contato {
+width: 100%;
+display:flex;
+
+
+}
+.img_ {
+    width: 250px ;
+   justify-content: center;
+   align-items: center; 
+
+}
+
+footer{
+    bottom: 0;
+    background-color: #ff0000;
+
+}
+#rodape {
+margin-left: 500px;
+}
